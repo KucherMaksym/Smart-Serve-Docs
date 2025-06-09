@@ -4,7 +4,9 @@
 
 A comprehensive Point of Sale (POS) system designed for restaurants, cafes, and bars that streamlines operations for owners, waiters, and customers. The system facilitates table management, order processing, real-time notifications, and integrated payment processing.
 
-**Project Scale**: ~50,000 lines of code (40% backend, 60% frontend)
+**Project Scale**: ~50,000 lines of code (40% backend, 60% frontend).
+
+**Screenshots**: [click here](https://imgur.com/a/NdfwcOw).
 
 ## Key Features
 
