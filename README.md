@@ -429,3 +429,7 @@ Different subscription plans offer varying limits on:
 ## Conclusion
 
 This Restaurant POS System represents a comprehensive solution for modern restaurant management, combining powerful features with intuitive interfaces for all user types. The architecture prioritizes real-time performance, scalability, and security while maintaining flexibility for future enhancements. The subscription-based model ensures sustainable growth while providing value at every tier.
+
+## Contact
+
+For more information you can contact me: [Telegram](https://t.me/Clusteeer), [LinkedIn](https://linkedin.com/in/maksym-kucher-a4b37831a), [Email](mailto:kuchermaksym07@gmail.com)
